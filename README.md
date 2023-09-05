@@ -5,7 +5,7 @@
 
 ##### A little bit about me:
 - 🌱 Currently learning: Advanced uses of R, Excel, and SSRS in my spare time
-- 🔭 Currently working on: Projects, projects, and more projects. I'm working on a variety of projects to showcase my ability to work with data. Learning never ends, so I'm always learning new skills.
+- 🔭 Currently working on: Projects to showcase my ability to work with data and present my findings through various visualization tools. Learning never ends, so I'm always learning new skills.
 
 Outside of work, I enjoy:
 - Traveling & Hiking
